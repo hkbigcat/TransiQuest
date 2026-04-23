@@ -1,3 +1,6 @@
+# YouTube:  Vibe Coding 會取代程式設計師嗎？2026 正反分析 + Lovable vs Cursor 實測
+https://youtu.be/a28gzCxBywQ
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
